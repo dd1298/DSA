@@ -8,4 +8,4 @@ Top Leetcode Questions for FAANG -- Devshree’s Sheet
 Questions from GFG
 [Largest Subarray with Sum K (GFG)	](https://www.geeksforgeeks.org/dsa/largest-subarray-with-equal-number-of-0s-and-1s/)		
 [Longest Subarray with Sum K (GFG)	](https://www.geeksforgeeks.org/dsa/longest-sub-array-sum-k/)
-		
+[Count Subarrays with given XOR ](https://www.geeksforgeeks.org/dsa/count-number-subarrays-given-xor/)	
